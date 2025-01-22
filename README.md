@@ -2,7 +2,7 @@
 
 # Hi there 👋, I'm **Purna**
 
-## 🌟 About Me:
+## 💫 About Me:
 
 I am a Software Engineer specializing in Java backend development, dedicated to crafting scalable web applications and solving complex problems.
 
