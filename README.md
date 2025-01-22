@@ -1,41 +1,50 @@
-# Welcome to Purna Brahma Sahu's GitHub Profile! 👋
+<!-- PurnaSahu/PurnaSahu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes. -->
 
-Hi there! I'm Purna Sahu, and I'm glad you stopped by. Here's a bit about me:
+# Hi there 👋, I'm **Purna**
 
-## About Me
+## 🌟 About Me:
 
-I'm a software engineer based in Ganjam, Odisha, India. I specialize in Java development and enjoy working on projects that involve creating robust and scalable software solutions. Outside of work, I love exploring new technologies, participating in coding competitions, and contributing to open-source projects. I'm always eager to learn and grow in my field, and I'm passionate about leveraging technology to solve real-world problems.
+I'm a backend-focused Full Stack Developer specializing in Java, dedicated to building scalable web applications and solving complex problems.
 
-## What I Do
+- 🔬 I’m currently working on:
+  Developing a new architecture for handling insurance claims processing at [Mawista](https://www.mawista.com/en/) as a **Subject Matter Expert (SME)**. Additionally, I’m optimizing existing backend systems for better performance and scalability, actively collaborating with **German** and **UK** clients.
 
-- 🔭 I’m currently working on developing a new architecture for handling insurance claims processing at Allianz Technology. Additionally,
-      I'm involved in optimizing existing backend systems for better performance and scalability. Apart from my work at Allianz, I'm also developing a Spring Boot projects Furthermore, I'm actively enhancing my understanding of data structures and algorithms to improve problem-solving skills and contribute more effectively to software development projects.
-- 🌱 I’m currently learning new front-end technologies and diving deeper into backend technologies.
-- 👀 I'm interested in delving deeper into microservices architecture and DevOps technologies.
-- 👯 I’m open to collaborating on projects related to Java development, monolithic and microservice architecture, and technology in general.
-- 💬 Ask me about Java fullstack development, software engineering best practices, or anything related to technology.
-- 📫 How to reach me: hello.pbs2027@gmail.com
+- 🌱 I’m currently learning:
+  Advancing cloud-based solutions and implementing microservices architecture.
 
-## Get in Touch
+- 💚 I’m looking to collaborate on:
+  Projects that solve real-world problems and contribute to open source.
 
-If you'd like to connect or have any questions, feel free to reach out:
+- ⚡ Fun fact:
+  I’m a fitness enthusiast.
 
--  https://www.linkedin.com/in/purna-sahu-1601202426ok/
--  https://leetcode.com/PBSahu/
--  hello.pbs2027@gmail.com
+## 💻 Tech Stack:
 
+<div align="left">
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank">
+    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  </a>
+  <a href="https://hibernate.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  </a>
+</div>
 
 Thanks for visiting my GitHub profile! 😊
-
-<!---
-- 👋 Hi, I’m @PurnaSahu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-PurnaSahu/PurnaSahu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
